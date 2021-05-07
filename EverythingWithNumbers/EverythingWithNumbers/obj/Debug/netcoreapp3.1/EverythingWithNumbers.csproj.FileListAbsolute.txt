@@ -1,0 +1,13 @@
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\bin\Debug\netcoreapp3.1\EverythingWithNumbers.exe
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\bin\Debug\netcoreapp3.1\EverythingWithNumbers.deps.json
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\bin\Debug\netcoreapp3.1\EverythingWithNumbers.runtimeconfig.json
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\bin\Debug\netcoreapp3.1\EverythingWithNumbers.runtimeconfig.dev.json
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\bin\Debug\netcoreapp3.1\EverythingWithNumbers.dll
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\bin\Debug\netcoreapp3.1\EverythingWithNumbers.pdb
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.csprojAssemblyReference.cache
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.AssemblyInfoInputs.cache
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.AssemblyInfo.cs
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.dll
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.pdb
+C:\Users\sibel\source\repos\EverythingWithNumbers\EverythingWithNumbers\obj\Debug\netcoreapp3.1\EverythingWithNumbers.genruntimeconfig.cache
